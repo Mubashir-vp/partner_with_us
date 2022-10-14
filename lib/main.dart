@@ -3,9 +3,9 @@ import 'package:partnerwithus/view/feedback.dart';
 
 void main() {
   runApp(
-     MaterialApp(
+     const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: FeedBackscreen(),
+      home: FeedBack(),
     ),
   );
 }
